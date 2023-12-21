@@ -1,4 +1,4 @@
-openmrs-module-basicmodule
+openmrs-module-leqela
 ==========================
 
 A demonstration module for new OpenMRS module developers
